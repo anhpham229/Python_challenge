@@ -2,6 +2,7 @@
 Module 3 - Python Challenge Submission
 
 How I Organized My Submission
+
 I have organized my submission into two folders:
 
 1. PyBank
