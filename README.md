@@ -19,3 +19,4 @@ I have organized my submission into two folders:
     +   main.py: My main script for the challenge.
     +   PyPoll_starter.py: The provided starter script with instructions.
     +   1 test Python script (test*.py): A separate script addressing the first request in the challenge.
+@Anh Pham
